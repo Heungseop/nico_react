@@ -30,7 +30,12 @@ function App() {
         />
         <button onClick={add_onClick}>Add</button>
       </form>
-      {todos.join(",")}
+      <hr />
+      <ul>
+        {todos.map((item, i) => (
+          <li key={i}>{item}</li>
+        ))}
+      </ul>
     </div>
   );
 }
