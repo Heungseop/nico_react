@@ -1,4 +1,5 @@
 
 
 todo-list/node_modules/.cache/
-todo-list/node_modules/.cache/**/*.pack
+todo-list/node_modules/.cache/**/
+todo-list/node_modules/.cache/default-development/
