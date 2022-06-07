@@ -1,3 +1,4 @@
 
 
-todo-list/node_module/.cache/
+todo-list/node_modules/.cache/
+todo-list/node_modules/.cache/**/*
