@@ -1,4 +1,4 @@
 
 
 todo-list/node_modules/.cache/
-todo-list/node_modules/.cache/**/*
+todo-list/node_modules/.cache/**/*.pack
