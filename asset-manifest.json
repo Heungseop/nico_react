@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/nico-react.git/static/js/main.db9f8fd2.js",
-    "index.html": "/nico-react.git/index.html",
-    "main.db9f8fd2.js.map": "/nico-react.git/static/js/main.db9f8fd2.js.map"
+    "main.js": "/nico_react.git/static/js/main.db9f8fd2.js",
+    "index.html": "/nico_react.git/index.html",
+    "main.db9f8fd2.js.map": "/nico_react.git/static/js/main.db9f8fd2.js.map"
   },
   "entrypoints": [
     "static/js/main.db9f8fd2.js"
